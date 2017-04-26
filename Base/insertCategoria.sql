@@ -1,0 +1,14 @@
+insert into Categoria values (default, 'Antojitos mexicanos');
+insert into Categoria values (default, 'Cocteles y jugos');
+insert into Categoria values (default, 'Ensaladas');
+insert into Categoria values (default, 'Baguettes y tortas');
+insert into Categoria values (default, 'Hamburguesas y hotdogs');
+insert into Categoria values (default, 'Comida corrida y guisados');
+insert into Categoria values (default, 'Helados');
+insert into Categoria values (default, 'Aguas');
+insert into Categoria values (default, 'Comida japonesa');
+insert into Categoria values (default, 'Tienda');
+insert into Categoria values (default, 'Tacos');
+insert into Categoria values (default, 'Pizza');
+insert into Categoria values (default, 'Cafeterías');
+insert into Categoria values (default, 'Café');
